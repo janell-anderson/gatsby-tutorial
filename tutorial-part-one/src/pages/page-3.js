@@ -5,6 +5,5 @@ export default () => (
     <div>
         <p>Hello world from my second Gatsby page</p>
         <Link to="/">Back</Link>
-        <Link to="/page-3">Page 3</Link>
     </div>
 );

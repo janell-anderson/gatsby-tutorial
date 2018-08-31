@@ -10,6 +10,12 @@ export default () =>
     <div>
         <Link to ="/page-2">Link</Link>
     </div>
+    <div>
+        <Link to ="/page-3">Page 3 </Link>
+    </div>
+    <div>
+        <Link to ="/counter/">Counter</Link>
+    </div>
 </div>
 
 // Tutorial Steps taken
