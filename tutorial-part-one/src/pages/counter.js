@@ -16,14 +16,14 @@ class Counter extends React.Component {
                 <button 
                     onClick={() =>
                         this.setState(prevState => ({
-                            count: prevState.count + 1,
+                            count: prevState.count + 5,
                         }))
                     }>
                     plus </button>
                 <button 
                     onClick={() =>
                         this.setState(prevState => ({
-                            count:prevState.count - 1,
+                            count:prevState.count - 5,
                         }))
                      }>
                     minus</button>
